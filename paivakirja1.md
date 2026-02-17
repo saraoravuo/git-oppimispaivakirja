@@ -24,3 +24,6 @@ Ongelmia tuli myös siinä mihin uuden tiedoston teen, ja missä repossa kulloin
 | git restore | tehtyjen muutosten peruuttaminen ennen talletusta |
 | git reset --hard | peruuttaa kaikki työtilaan tehdyt muutokset |
 | git revert |  peruuttaa yhden talletuksen kerrallaan |
+| git branch | näyttää olemassa olevat haarat |
+| git switch  | vaihtaa haaraa |
+| git merge | yhdistää haarat |
